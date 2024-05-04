@@ -1,2 +1,3 @@
-# flavor-fins
+# flavor-finds
+
 a restaurant recommendation app
